@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 include ':app', 'third_party:rootshell'
+=======
+include ':AIMSICD'
+>>>>>>> refs/remotes/CellularPrivacy/development
